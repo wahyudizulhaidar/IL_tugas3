@@ -78,7 +78,7 @@ fun AboutScreen(
                     Modifier
                         .padding(start = 10.dp)
                 ) {
-                    Text(
+                    /* Text(
                         text = "SD : SDN 168 Bassaran",
                         fontSize = 18.sp,
                         fontWeight = FontWeight.Bold,
@@ -96,6 +96,8 @@ fun AboutScreen(
                         fontWeight = FontWeight.Bold,
                         color = Color.Black
                     )
+                    
+                     */
                 }
             }
         }
